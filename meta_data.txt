@@ -1,0 +1,11 @@
+keys : id, age, sex, note
+
+Note structure
+|-- cancer
+    |-- lung cancer
+        |-- non small cell lung cancer
+            |-- squamous cell carcinoma
+            |-- large cell carcinomas
+            |-- etc
+        |-- small cell lung cancer
+    |-- other forms of cancer
